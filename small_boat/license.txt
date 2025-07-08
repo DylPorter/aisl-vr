@@ -1,0 +1,11 @@
+Model Information:
+* title:	Small Boat
+* source:	https://sketchfab.com/3d-models/small-boat-646295292f4041d28cc213bb9164b022
+* author:	TheKnightDuck (https://sketchfab.com/lordfelps14)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Small Boat" (https://sketchfab.com/3d-models/small-boat-646295292f4041d28cc213bb9164b022) by TheKnightDuck (https://sketchfab.com/lordfelps14) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
