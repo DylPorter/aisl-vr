@@ -1,0 +1,11 @@
+Model Information:
+* title:	lucario aura sphere
+* source:	https://sketchfab.com/3d-models/lucario-aura-sphere-ed7bf1b717c7492496bb2a9cfc74730e
+* author:	#3D $Resource$ (https://sketchfab.com/lopuh22721)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "lucario aura sphere" (https://sketchfab.com/3d-models/lucario-aura-sphere-ed7bf1b717c7492496bb2a9cfc74730e) by #3D $Resource$ (https://sketchfab.com/lopuh22721) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

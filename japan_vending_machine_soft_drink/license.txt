@@ -1,0 +1,11 @@
+Model Information:
+* title:	Japan Vending Machine Soft Drink
+* source:	https://sketchfab.com/3d-models/japan-vending-machine-soft-drink-431394ee886141349e187fb8dcc2307a
+* author:	ditovirnantio (https://sketchfab.com/ditovirnantio)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Japan Vending Machine Soft Drink" (https://sketchfab.com/3d-models/japan-vending-machine-soft-drink-431394ee886141349e187fb8dcc2307a) by ditovirnantio (https://sketchfab.com/ditovirnantio) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
