@@ -1,0 +1,11 @@
+Model Information:
+* title:	Mewing Master
+* source:	https://sketchfab.com/3d-models/mewing-master-c9adb3aabe0649c39605837d89d64bfc
+* author:	guest4112018 (https://sketchfab.com/guest4112018)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Mewing Master" (https://sketchfab.com/3d-models/mewing-master-c9adb3aabe0649c39605837d89d64bfc) by guest4112018 (https://sketchfab.com/guest4112018) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

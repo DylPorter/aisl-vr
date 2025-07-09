@@ -1,0 +1,253 @@
+{
+  "accessors": [
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        21.861116409301758,
+        24.26165771484375,
+        24.232280731201172
+      ],
+      "min": [
+        -17.281536102294922,
+        -28.18097496032715,
+        -27.126638412475586
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 786384,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.9999286532402039,
+        0.9998468160629272,
+        1.0
+      ],
+      "min": [
+        -0.9332640171051025,
+        -0.9999212026596069,
+        -0.9999237656593323
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        1.0,
+        0.8980392217636108,
+        0.7058823704719543,
+        1.0
+      ],
+      "min": [
+        0.9411764740943909,
+        0.8470588326454163,
+        0.6745098233222961,
+        1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 390873,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1572768,
+      "componentType": 5126,
+      "count": 33574,
+      "max": [
+        15.905179023742676,
+        15.234877586364746,
+        18.333860397338867
+      ],
+      "min": [
+        -21.861108779907227,
+        -32.47108459472656,
+        -19.335411071777344
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1975656,
+      "componentType": 5126,
+      "count": 33574,
+      "max": [
+        0.9052472114562988,
+        0.6047953367233276,
+        0.9972483515739441
+      ],
+      "min": [
+        -0.9999334812164307,
+        -0.9998981952667236,
+        -0.9999726414680481
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1048512,
+      "componentType": 5126,
+      "count": 33574,
+      "max": [
+        1.0,
+        0.929411768913269,
+        0.9176470637321472,
+        1.0
+      ],
+      "min": [
+        0.007843137718737125,
+        0.007843137718737125,
+        0.0117647061124444,
+        1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 1563492,
+      "componentType": 5125,
+      "count": 198951,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "guest4112018 (https://sketchfab.com/guest4112018)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/mewing-master-c9adb3aabe0649c39605837d89d64bfc",
+      "title": "Mewing Master"
+    },
+    "generator": "Sketchfab-16.17.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 2359296,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 2378544,
+      "byteOffset": 2359296,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1585696,
+      "byteOffset": 4737840,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 6323536,
+      "uri": "scene.bin"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "material_0",
+      "pbrMetallicRoughness": {
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.6
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Object_0",
+      "primitives": [
+        {
+          "attributes": {
+            "COLOR_0": 2,
+            "NORMAL": 1,
+            "POSITION": 0
+          },
+          "indices": 3,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Object_1",
+      "primitives": [
+        {
+          "attributes": {
+            "COLOR_0": 6,
+            "NORMAL": 5,
+            "POSITION": 4
+          },
+          "indices": 7,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2,
+        3
+      ],
+      "name": "yourMesh.obj.cleaner.materialmerger.gles"
+    },
+    {
+      "mesh": 0,
+      "name": "Object_2"
+    },
+    {
+      "mesh": 1,
+      "name": "Object_3"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}
