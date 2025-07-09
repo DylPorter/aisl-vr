@@ -1,0 +1,11 @@
+Model Information:
+* title:	Republic Assault Ship
+* source:	https://sketchfab.com/3d-models/republic-assault-ship-e56b33bb58cc448ab134675e69dbc224
+* author:	StarWars-Universe (https://sketchfab.com/SWU)
+
+Model License:
+* license type:	CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions must have the same license.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Republic Assault Ship" (https://sketchfab.com/3d-models/republic-assault-ship-e56b33bb58cc448ab134675e69dbc224) by StarWars-Universe (https://sketchfab.com/SWU) licensed under CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
