@@ -1,0 +1,11 @@
+Model Information:
+* title:	Goofy Ahh Spongebob
+* source:	https://sketchfab.com/3d-models/goofy-ahh-spongebob-db1ee721998945bdb108e862b930dab0
+* author:	eror (https://sketchfab.com/91yu)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Goofy Ahh Spongebob" (https://sketchfab.com/3d-models/goofy-ahh-spongebob-db1ee721998945bdb108e862b930dab0) by eror (https://sketchfab.com/91yu) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

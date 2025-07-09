@@ -1,0 +1,11 @@
+Model Information:
+* title:	DnA Alley's Restaurant
+* source:	https://sketchfab.com/3d-models/dna-alleys-restaurant-519d62eff83d416b8adc0f7798115ef2
+* author:	MLAB (https://sketchfab.com/MLAB)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "DnA Alley's Restaurant" (https://sketchfab.com/3d-models/dna-alleys-restaurant-519d62eff83d416b8adc0f7798115ef2) by MLAB (https://sketchfab.com/MLAB) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
