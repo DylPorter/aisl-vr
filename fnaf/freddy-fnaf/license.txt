@@ -1,0 +1,11 @@
+Model Information:
+* title:	Freddy-fnaf
+* source:	https://sketchfab.com/3d-models/freddy-fnaf-e1e2705f28eb468f8995be58cc59e180
+* author:	fnaflova (https://sketchfab.com/fnaflova)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Freddy-fnaf" (https://sketchfab.com/3d-models/freddy-fnaf-e1e2705f28eb468f8995be58cc59e180) by fnaflova (https://sketchfab.com/fnaflova) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Endo-Skeleton FNaF Remake
+* source:	https://sketchfab.com/3d-models/endo-skeleton-fnaf-remake-3d8799ae0d534377bf8bac5484d68865
+* author:	Vincent (https://sketchfab.com/slobergames)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Endo-Skeleton FNaF Remake" (https://sketchfab.com/3d-models/endo-skeleton-fnaf-remake-3d8799ae0d534377bf8bac5484d68865) by Vincent (https://sketchfab.com/slobergames) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
