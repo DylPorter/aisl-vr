@@ -1,0 +1,11 @@
+Model Information:
+* title:	Asteroides
+* source:	https://sketchfab.com/3d-models/asteroides-40f11d98a48741ce91b173efa76b7ccb
+* author:	Leo Madeira (https://sketchfab.com/lndrmdr)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Asteroides" (https://sketchfab.com/3d-models/asteroides-40f11d98a48741ce91b173efa76b7ccb) by Leo Madeira (https://sketchfab.com/lndrmdr) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
